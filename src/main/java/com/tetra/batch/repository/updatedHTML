@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Query Form</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div>
+<div class="container-contact50"></div>
+	<div class="container-contact100">
+		<div class="wrap-contact100 relative">
+		<h3>Washonn Franchise Enquire</h3>
+		<div class="wrap-input100 bg1">* Required</div>
+			<form>
+				<div class="wrap-input100">
+					<span>First Name <span class="bg1">*</span></span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="fname" placeholder="Your answer">	
+					
+				</div>
+
+				<div class="wrap-input100">
+					<span>Last Name</span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="lname" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Email ID <span class="bg1">*</span></span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="email" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Contact Number <span class="bg1">*</span></span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="number" name="contact" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Current Profession</span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="profession" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Reason of Interest in Laundry</span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="interestInLaundry" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Why open a Franchise?</span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="franchise" placeholder="Your answer">
+				</div>
+				
+				<div class="wrap-input100">
+					<span>Have you ever experienced Leather Dry Clean laundry?</span>
+					<input class="input100" style="border-bottom: 1px solid #555555;width: 30%" type="text" name="dryCleanLaundry" placeholder="Your answer">
+				</div>
+				
+				<div>
+					<span><input type="button" class="button" value="SUBMIT"/>
+					<span class="progressbar" style="border: 5px solid blue"></span>
+					<span style="float: right;clear: right;"> Page 1 of 1</span>
+				</div>
+			</form>
+			<p class="input100 wrap-input100"> Never submit passwords through Google Forms.</p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+
